@@ -1,0 +1,19 @@
+.Odd{
+    background-color: rgb(236, 164, 164);
+    font-family: "Verdana","DejaVu Sans", "sans-serif";
+}
+
+#One {
+    color: blue;
+    font-size: 36px;
+}
+
+#Two {
+    background-color: lightgreen;
+    font-size: 24px;
+    font-weight: bold
+}
+
+.adjust-font-size{
+    font-size: 24px;
+}
